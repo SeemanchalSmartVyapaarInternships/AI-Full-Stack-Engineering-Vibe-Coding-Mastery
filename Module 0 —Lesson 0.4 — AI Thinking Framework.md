@@ -1,24 +1,4 @@
-Excellent. Before we move to **Module 1 (LLMs)**, we need to complete the most important lesson of Module 0.
 
-In my opinion, **Lesson 0.4 is one of the most important lessons of the entire course**.
-
-Why?
-
-Because **AI Software Engineering is not about using AI.**
-
-It is about **thinking correctly.**
-
-Most people fail with AI not because the AI is weak.
-
-They fail because **their thinking process is weak.**
-
-A good engineer can get amazing results from average AI.
-
-A poor engineer gets poor results even from the world's best AI.
-
-So this lesson is actually about **changing your thinking process**.
-
----
 
 # AI Full-Stack Engineering & Vibe Coding Mastery (2026)
 
